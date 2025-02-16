@@ -14,10 +14,6 @@
 * [Funcionalidades del proyecto](#funcionalidades-del-proyecto)
 * [Acceso al proyecto](#acceso-proyecto)
 * [Tecnologías utilizadas](#tecnologías-utilizadas)
-* [Personas Contribuyentes](#personas-contribuyentes)
-* [Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
-* [Licencia](#licencia)
-* [Conclusión](#conclusión)
 
 ## Descripción del proyecto
 <p class="descripción-del-proyecto">
@@ -37,3 +33,24 @@
 - `Funcion limpiarCaja` : Al dar clic en el botón "añadir" se limpia el input automaticamente.
 
 ## 📂 Acceso al proyecto
+
+El código fuente de este proyecto está disponible en este repositorio. Puedes clonarlo o descargarlo para ejecutarlo localmente en tu equipo.
+
+### 🔽 Descargar y ejecutar el proyecto
+
+### Opción 1:  Clonar el repositorio. 
+Si tienes **Git** instalado, puedes clonar el repositorio con el siguiente comando:  
+```sh 
+git clone https://github.com/Sam-And3s/DesafioAluraAmigoSecreto.git
+```
+### Opción 2: descargar el ZIP desde la opción "Code" en GitHub y extraerlo en tu equipo.
+
+1. Abre **Visual Studio Code**.  
+2. En el menú superior, selecciona **Archivo → Abrir carpeta...**.  
+3. Busca y selecciona la carpeta del proyecto.
+
+## ⚙️ Tecnologías utilizadas
+
+- html.
+- css.
+- JavaScript.
